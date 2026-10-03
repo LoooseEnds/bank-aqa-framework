@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bank-aqa-framework"
+version = "0.1.0"
+requires-python = ">=3.12"
+
+dependecies = [
+    "requests==2.34.2"
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest==9.1.1"
+]
+
