@@ -6,3 +6,7 @@
 
 - `src/` — код фреймворка
 - `tests/` — автотесты
+
+## Goal
+
+Практика построения API automation framework с нуля.
