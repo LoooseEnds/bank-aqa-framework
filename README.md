@@ -6,3 +6,9 @@
 
 - `src/` — код фреймворка
 - `tests/` — автотесты
+
+## Tech stack
+
+- Python
+- Pytest
+- Requests
